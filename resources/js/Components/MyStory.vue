@@ -2,9 +2,7 @@
 
 </script>
 
-<template>
-  $END$
-</template>
+<template></template>
 
 <style scoped>
 
